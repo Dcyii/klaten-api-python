@@ -1,6 +1,6 @@
 # api-klaten
 ---------------------------------------------------------
-Berikut ini adalah isi file dan struktur folder proyek `klaten-api-python` yang bisa langsung kamu upload ke GitHub:
+Berikut ini adalah isi file dan struktur folder proyek `klaten-api-python` yang di upload ke GitHub:
 
 ---
 
@@ -84,21 +84,3 @@ pkill -f "python3 app.py"
 # Jalankan ulang aplikasinya di background
 nohup python3 app.py > app.log 2>&1 &
 ```
-
----
-
-### 💾 **Download Proyek Siap Upload**
-Aku akan kirimkan file ZIP-nya supaya kamu bisa langsung upload ke GitHub.
-
-Tunggu sebentar ya, aku buatkan file `.zip` berisi semua file di atas.
-
-Berikut ini adalah file ZIP berisi proyek `klaten-api-python` yang siap kamu upload ke GitHub:
-
-🔗 **[Download klaten-api-python.zip](sandbox:/mnt/data/klaten-api-python.zip)**
-
-Setelah kamu download:
-1. Ekstrak isi file tersebut.
-2. Upload ke repository GitHub kamu (`klaten-api-python`).
-3. Pastikan semua file (`app.py`, `requirements.txt`, `appspec.yml`, `scripts/install.sh`) masuk ke dalam repo.
-
-Kalau kamu sudah upload ke GitHub, bilang “lanjut” ya, biar kita masuk ke **Langkah 3: Setup EC2 dan install CodeDeploy Agent**!
